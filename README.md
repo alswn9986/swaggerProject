@@ -10,9 +10,6 @@ spring boot with swagger sample project
 implementation "io.springfox:springfox-boot-starter:3.0.0"
 implementation "io.springfox:springfox-swagger-ui:3.0.0"
 ```
-
-<br>
-
 3. swagger 설정
 4. 테스트용 API 생성(controller에 swagger 적용)
 5. 결과
